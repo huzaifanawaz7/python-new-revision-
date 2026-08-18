@@ -1,0 +1,12 @@
+a=10
+int(a)
+print(type(a))
+a=10.0
+float(a)
+print(type(a))
+a="10"
+str(a)
+print(type(a))
+a=True
+print(type(a))
+bool(a)
