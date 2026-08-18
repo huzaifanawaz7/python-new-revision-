@@ -15,8 +15,9 @@
 # height=input("enter your height")
 # age=input("enter your age")
 
-try:
-    num=int(input("enter any number"))
-except ValueError:
-    print("you are only allowed to enter your number")
-print(f"the number you entered is {num}")
+# try:
+#     num=int(input("enter any number"))
+# except ValueError:
+#     print("you are only allowed to enter your number")
+# print(f"the number you entered is {num}")
+print("python jango backend")
